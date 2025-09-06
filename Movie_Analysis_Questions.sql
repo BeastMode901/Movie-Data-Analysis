@@ -1,0 +1,12 @@
+-- Movie Analysis Questions
+
+-- 1. Top 10 most profitable and bottom 10 least profitable movies
+-- 2. Top 5 movie genres by average revenue
+-- 3. What is the total net profit of movies produced exclusively in the United States?
+-- 4. Top 5 movies with the highest average viewer ratings
+-- 5. Top 5 movies with the lowest average viewer ratings
+-- 6. Which movie genre produced the most films in the dataset?
+-- 7. Which movies have the longest and shortest runtime?
+-- 8. What are the top 5 movies with the most total votes?
+-- 9. How many movies involved the United States? 
+-- 10. How many movies were released each year in the dataset?  
