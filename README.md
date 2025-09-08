@@ -1,7 +1,7 @@
 # Movie Data Analysis
 
 ## Project Overview
-In this project, I explored a movie dataset using SQL to query and analyze key information, and then visualized the results with Tableau. Using SQL, I calculated profits, averaged revenues by genre, identified top-rated movies, tracked vote counts, and analyzed runtimes and production trends. The goal was to understand how movies perform, how audiences respond, and what patterns emerge across the industry, giving a clear picture of what makes a movie successful.
+In this project, I explored a movie dataset using SQL to query and analyze key information and then visualized the results with Tableau. Using SQL, I calculated profits, averaged revenues by genre, identified top-rated movies, tracked vote counts, and analyzed runtimes and production trends. The goal was to understand how movies perform, how audiences respond, and what patterns emerge across the industry, giving a clear picture of what makes a movie successful.
 
 ## Database
 - **Table Name:** `Movie_Data`  
