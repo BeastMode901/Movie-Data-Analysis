@@ -1,4 +1,4 @@
--- Movie Data Analysis by Collins Mensah
+-- Movie Data Analysis
 
 -- Movie Data Table
 CREATE TABLE Movie_Data (
@@ -30,4 +30,5 @@ CREATE TABLE Movie_Data (
 		-- Popularity = Popularity score of the movie.  
 		-- Genre = Genre of the movie.
 		-- Production_Companies = Production companies involved.  
+
 		-- Production_Countries= Countries involved in production. 
